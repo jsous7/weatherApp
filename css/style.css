@@ -40,6 +40,6 @@ body{
 	top: 5px;
 }
 .weather_icons{
-    opacity: 0.8;
+    border: 0.2rem solid white;
     border-radius: 50%;
 }
